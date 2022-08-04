@@ -6,10 +6,15 @@ PROJETS  CYBERSÉCURITÉ
 Principes de cybersécurité
 
 Mise en œuvre de la gestion des risques et de l'évaluation des risques pour gérer, hiérarchiser et réduire les risques pour les organisations. 
+
 Recherche et examen de nombreux groupes de menaces persistantes avancées (APT) et de leur anatomie.
+
 Conception et réalisation d'évaluations, d'examens et d'évaluations de la sécurité des systèmes informatiques.
+
 Élaboration de politiques et de procédures pour assurer la confidentialité, l'intégrité et la disponibilité des systèmes informatiques.
+
 Étude et réalisation de différentes formes d'ingénierie sociale pour apprendre les techniques d'atténuation.
+
 Effectuer des reconnaissances sur des cibles pour identifier les actifs, recueillir des renseignements humains et évaluer les vulnérabilités.
 
 Technologies de réseau et sécurité du réseau 
